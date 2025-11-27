@@ -18,7 +18,7 @@
 | 50   | 192.168.50.0/24 | 192.168.50.1   | 5     |
 
 ## Lab Setup Instructions
-1. Open the Packet Tracer file: `VLAN Segmentation Project/Documentation/Office_VLAN_Lab.pkt`
+1. Open the Packet Tracer file: `Office_VLAN_Lab.pkt`
 2. Verify VLANs and port assignments on the switch:
    - `show vlan brief`
 3. Verify trunk configuration between switch and router.
